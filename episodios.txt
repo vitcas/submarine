@@ -1,0 +1,11 @@
+['Season 1']
+Title: "Arcane" Welcome to the Playground, Href: /pb/search/sublanguageid-pob/imdbid-14586040
+Title: "Arcane" Some Mysteries Are Better Left Unsolved, Href: /pb/search/sublanguageid-pob/imdbid-15496380
+Title: "Arcane" The Base Violence Necessary for Change, Href: /pb/search/sublanguageid-pob/imdbid-15496376
+Title: "Arcane" Happy Progress Day!, Href: /pb/search/sublanguageid-pob/imdbid-15496390
+Title: "Arcane" Everybody Wants to Be My Enemy, Href: /pb/search/sublanguageid-pob/imdbid-15496392
+Title: "Arcane" When These Walls Come Tumbling Down, Href: /pb/search/sublanguageid-pob/imdbid-15496430
+Title: "Arcane" The Boy Savior, Href: /pb/search/sublanguageid-pob/imdbid-15496436
+Title: "Arcane" Oil and Water, Href: /pb/search/sublanguageid-pob/imdbid-15496432
+Title: "Arcane" The Monster You Created, Href: /pb/search/sublanguageid-pob/imdbid-15496440
+['Season 2']
